@@ -1,0 +1,26 @@
+diff --git a/random.txt b/random.txt
+index 8c77958..d54ae76 100644
+--- a/random.txt
++++ b/random.txt
+@@ -1,12 +1,13 @@
+-Through my fingers to the deep,
+-How few! yet how they creep
+-All that we see or seem
+-Is it therefore the less gone?
++In a vision, or in none,
+ Take this kiss upon the brow!
+-Through my fingers to the deep,
+-
+-In a night, or in a day,
+ That my days have been a dream;
++In a night, or in a day,
++Take this kiss upon the brow!
++Take this kiss upon the brow!
+ Of a surf-tormented shore,
+-Is all that we see or seem
++Thus much let me avow--
++I stand amid the roar
+ And, in parting from you now,
++Take this kiss upon the brow!
++O God! can I not grasp
++Take this kiss upon the brow!
