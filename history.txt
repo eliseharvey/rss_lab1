@@ -1,0 +1,11 @@
+commit ad4ab10b735d2ac4e0b25380bc3e1f69aaeface9
+Author: Elise <elise.harvey20@gmail.com>
+Date:   Wed Feb 7 20:40:04 2024 +0000
+
+    Adding files according to Problem 1: step 3.
+
+commit 160545601efda1cb254ba6af7366e0f971abe6f8
+Author: Elise <elise.harvey20@gmail.com>
+Date:   Wed Feb 7 20:33:42 2024 +0000
+
+    Adding linux exercise from lab1a.
